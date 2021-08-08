@@ -1,7 +1,6 @@
-# JAC77Games
-Welcome to my github page!
+# <h1 style="color:white;"> JAC77Games <h1>
+<p style="color:white;"> Welcome to my github page! <p>
 
-<!DOCTYPE html>
 <html>
 <body style="background-color:black;">
 
@@ -9,5 +8,5 @@ Welcome to my github page!
   
   
   
-  </body>
+</body>
 </html>
