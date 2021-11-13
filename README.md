@@ -12,7 +12,7 @@
  <p style="color:white;"> (Insert Cricket Sound here) <p>
   
 <head>
-  <meta http-equiv="refresh" content="5; URL=https://jac77games.glitch.me/" />
+  <meta http-equiv="refresh" content="5; URL=https://jac77games.glitch.me/index.html" />
 </head>
   
   
