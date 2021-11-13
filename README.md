@@ -11,6 +11,8 @@
 <h2 style="color:white;"> Projects <h2> 
  <p style="color:white;"> (Insert Cricket Sound here) <p>
   
- <meta http-equiv="refresh" content="time; URL="https://jac77games.glitch.me" /> </meta>
+<head>
+  <meta http-equiv="refresh" content="5; URL=https://jac77games.glitch.me/" />
+</head>
   
   
